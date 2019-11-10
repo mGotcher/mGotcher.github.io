@@ -1,0 +1,20 @@
+{ 
+ "blogposts": [
+	{
+		"blogPostTitle": "My first Blog Post",
+		"blogDate": "2019-08-26", 
+		"subtitle": "a test in posting",
+		"blogText": "First Blog Test",
+		"author": "Michael Gotcher",
+		"tags": "test"
+	},
+	{
+		"blogPostTitle": "My first Blog Post",
+		"blogDate": "2019-08-26", 
+		"subtitle": "a test in posting",
+		"blogText": "First Blog Test",
+		"author": "Michael Gotcher",
+		"tags": "test"
+	}
+  ]
+  }
